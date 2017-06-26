@@ -16,5 +16,34 @@ namespace Avaliacao2G2
         {
             InitializeComponent();
         }
+
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void professoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Professores professores = new Professores();
+            professores.Show();
+        }
+
+        private void cursosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Curso curso = new Curso();
+            curso.Show();
+        }
+
+        private void disciplinasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Disciplina disciplina = new Disciplina();
+            disciplina.Show();
+        }
+
+        private void alocaçõesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Alocado alocado = new Alocado();
+            alocado.Show();
+        }
     }
 }

@@ -1,1 +1,14 @@
 c:\users\alisson\documents\visual studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\bin\Debug\Avaliacao2G2.exe.config
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\bin\Debug\DatabaseAvaliacao2.mdb
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\bin\Debug\Avaliacao2G2.exe
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\bin\Debug\Avaliacao2G2.pdb
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.csprojResolveAssemblyReference.cache
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.Form1.resources
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.Professores.resources
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.Properties.Resources.resources
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.csproj.GenerateResource.Cache
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.exe
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.pdb
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.Curso.resources
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.Disciplina.resources
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.Alocado.resources
