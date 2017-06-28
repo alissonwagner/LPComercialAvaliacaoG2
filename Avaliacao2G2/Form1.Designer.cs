@@ -36,6 +36,8 @@
             this.cursosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.disciplinasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.alocaçõesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.buscasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.disciplinasToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -43,7 +45,8 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.arquivoToolStripMenuItem,
-            this.formsToolStripMenuItem});
+            this.formsToolStripMenuItem,
+            this.buscasToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(284, 24);
@@ -104,6 +107,21 @@
             this.alocaçõesToolStripMenuItem.Text = "Alocações";
             this.alocaçõesToolStripMenuItem.Click += new System.EventHandler(this.alocaçõesToolStripMenuItem_Click);
             // 
+            // buscasToolStripMenuItem
+            // 
+            this.buscasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.disciplinasToolStripMenuItem1});
+            this.buscasToolStripMenuItem.Name = "buscasToolStripMenuItem";
+            this.buscasToolStripMenuItem.Size = new System.Drawing.Size(55, 20);
+            this.buscasToolStripMenuItem.Text = "Buscas";
+            // 
+            // disciplinasToolStripMenuItem1
+            // 
+            this.disciplinasToolStripMenuItem1.Name = "disciplinasToolStripMenuItem1";
+            this.disciplinasToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.disciplinasToolStripMenuItem1.Text = "Disciplinas";
+            this.disciplinasToolStripMenuItem1.Click += new System.EventHandler(this.disciplinasToolStripMenuItem1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -130,6 +148,8 @@
         private System.Windows.Forms.ToolStripMenuItem cursosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem disciplinasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem alocaçõesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem buscasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem disciplinasToolStripMenuItem1;
     }
 }
 

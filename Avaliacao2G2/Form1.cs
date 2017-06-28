@@ -45,5 +45,11 @@ namespace Avaliacao2G2
             Alocado alocado = new Alocado();
             alocado.Show();
         }
+
+        private void disciplinasToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            BuscaDisciplina busca = new BuscaDisciplina();
+            busca.Show();
+        }
     }
 }

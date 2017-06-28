@@ -52,6 +52,12 @@
     <Compile Include="Alocado.Designer.cs">
       <DependentUpon>Alocado.cs</DependentUpon>
     </Compile>
+    <Compile Include="BuscaDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscaDisciplina.Designer.cs">
+      <DependentUpon>BuscaDisciplina.cs</DependentUpon>
+    </Compile>
     <Compile Include="Curso.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,6 +94,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Alocado.resx">
       <DependentUpon>Alocado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscaDisciplina.resx">
+      <DependentUpon>BuscaDisciplina.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Curso.resx">
       <DependentUpon>Curso.cs</DependentUpon>
