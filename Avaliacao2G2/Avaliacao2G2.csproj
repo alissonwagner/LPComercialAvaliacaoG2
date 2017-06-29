@@ -58,6 +58,12 @@
     <Compile Include="BuscaDisciplina.Designer.cs">
       <DependentUpon>BuscaDisciplina.cs</DependentUpon>
     </Compile>
+    <Compile Include="BuscaProfessores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscaProfessores.Designer.cs">
+      <DependentUpon>BuscaProfessores.cs</DependentUpon>
+    </Compile>
     <Compile Include="Curso.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +103,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BuscaDisciplina.resx">
       <DependentUpon>BuscaDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscaProfessores.resx">
+      <DependentUpon>BuscaProfessores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Curso.resx">
       <DependentUpon>Curso.cs</DependentUpon>

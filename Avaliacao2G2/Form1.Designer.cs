@@ -38,6 +38,7 @@
             this.alocaçõesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.buscasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.disciplinasToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.professoresToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -82,35 +83,36 @@
             // professoresToolStripMenuItem
             // 
             this.professoresToolStripMenuItem.Name = "professoresToolStripMenuItem";
-            this.professoresToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.professoresToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
             this.professoresToolStripMenuItem.Text = "Professores";
             this.professoresToolStripMenuItem.Click += new System.EventHandler(this.professoresToolStripMenuItem_Click);
             // 
             // cursosToolStripMenuItem
             // 
             this.cursosToolStripMenuItem.Name = "cursosToolStripMenuItem";
-            this.cursosToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.cursosToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
             this.cursosToolStripMenuItem.Text = "Cursos";
             this.cursosToolStripMenuItem.Click += new System.EventHandler(this.cursosToolStripMenuItem_Click);
             // 
             // disciplinasToolStripMenuItem
             // 
             this.disciplinasToolStripMenuItem.Name = "disciplinasToolStripMenuItem";
-            this.disciplinasToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.disciplinasToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
             this.disciplinasToolStripMenuItem.Text = "Disciplinas";
             this.disciplinasToolStripMenuItem.Click += new System.EventHandler(this.disciplinasToolStripMenuItem_Click);
             // 
             // alocaçõesToolStripMenuItem
             // 
             this.alocaçõesToolStripMenuItem.Name = "alocaçõesToolStripMenuItem";
-            this.alocaçõesToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.alocaçõesToolStripMenuItem.Size = new System.Drawing.Size(134, 22);
             this.alocaçõesToolStripMenuItem.Text = "Alocações";
             this.alocaçõesToolStripMenuItem.Click += new System.EventHandler(this.alocaçõesToolStripMenuItem_Click);
             // 
             // buscasToolStripMenuItem
             // 
             this.buscasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.disciplinasToolStripMenuItem1});
+            this.disciplinasToolStripMenuItem1,
+            this.professoresToolStripMenuItem1});
             this.buscasToolStripMenuItem.Name = "buscasToolStripMenuItem";
             this.buscasToolStripMenuItem.Size = new System.Drawing.Size(55, 20);
             this.buscasToolStripMenuItem.Text = "Buscas";
@@ -121,6 +123,13 @@
             this.disciplinasToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
             this.disciplinasToolStripMenuItem1.Text = "Disciplinas";
             this.disciplinasToolStripMenuItem1.Click += new System.EventHandler(this.disciplinasToolStripMenuItem1_Click);
+            // 
+            // professoresToolStripMenuItem1
+            // 
+            this.professoresToolStripMenuItem1.Name = "professoresToolStripMenuItem1";
+            this.professoresToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.professoresToolStripMenuItem1.Text = "Professores";
+            this.professoresToolStripMenuItem1.Click += new System.EventHandler(this.professoresToolStripMenuItem1_Click);
             // 
             // Form1
             // 
@@ -150,6 +159,7 @@
         private System.Windows.Forms.ToolStripMenuItem alocaçõesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem buscasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem disciplinasToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem professoresToolStripMenuItem1;
     }
 }
 

@@ -51,5 +51,11 @@ namespace Avaliacao2G2
             BuscaDisciplina busca = new BuscaDisciplina();
             busca.Show();
         }
+
+        private void professoresToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            BuscaProfessores busca = new BuscaProfessores();
+            busca.Show();
+        }
     }
 }

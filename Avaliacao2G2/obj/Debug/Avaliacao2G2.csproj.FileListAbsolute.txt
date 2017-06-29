@@ -13,3 +13,4 @@ C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2
 C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.Disciplina.resources
 C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.Alocado.resources
 C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.BuscaDisciplina.resources
+C:\Users\Alisson\Documents\Visual Studio 2015\Projects\Avaliacao2G2\Avaliacao2G2\obj\Debug\Avaliacao2G2.BuscaProfessores.resources
